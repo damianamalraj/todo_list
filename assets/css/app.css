@@ -1,0 +1,17 @@
+h1 {
+    background: #006FBF;
+    margin: 0;
+    padding: 10px 20px;
+}
+
+#container {
+    box-shadow: 0 0 3px gray;
+    width: 360px;
+    background: #f7f7f7;
+    margin: 100px auto;
+}
+
+.completed {
+    color: gray;
+    text-decoration: line-through;
+}
